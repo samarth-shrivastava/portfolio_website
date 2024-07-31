@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Tomato",
+      "imageSrc": "projects/project_rest.png",
+      "description": "A responsive frontend restaurant website with food menu items, add to cart and many more functionalities.",
+      "skills": ["HTML", "CSS","Javascript"],
+      "demo": "https://github.com/samarth-shrivastava/TomatoFrontend",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Blogmo",
+      "imageSrc": "projects/project3.png",
+      "description": "This is a MERN full-stack blog website project to read, publish blogs with like,comment and save functionalities.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://github.com/samarth-shrivastava/Blog_mern",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Load Approval Prediction",
+      "imageSrc": "projects/project2.png",
+      "description": "This is a project made to predict the chances of getting loan on the basis of data provided.",
+      "skills": ["Python","Pandas","sklearn","NumPy"],
+      "demo": "https://github.com/samarth-shrivastava/ML_Projects/blob/main/Loan_Status_Prediction%20(3).ipynb",
+      "source": "https://www.github.com"
+    }
+    
+  ]
